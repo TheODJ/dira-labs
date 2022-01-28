@@ -6,7 +6,7 @@ This API has a single endpoint that helps people join a waitlist accessible at `
 ## Request Parameters
 Request parameters that should be included in the request to the endpoint include
 - waitlist_type: 1 for Investors, 2 for Asset Listers
-- name: Full name of Waitlister (not less than 5 characters) e.g. 'Obi Wan Kenobi'
+- name: Full name of Waitlister e.g. 'Obi Wan Kenobi'
 - email: Email address of Waitlister
 - lister_desc: Description of asset to be added if waitlister is an Asset Lister
 

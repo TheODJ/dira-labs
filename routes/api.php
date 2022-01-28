@@ -23,4 +23,4 @@ use App\Http\Controllers\WaitlistController;
 //     return "This API is responding properly";
 // });
 
-Route::post('/join-waitlist', [WaitlistController::class, 'joinWaitlist'])->name('join-waitlist');
+Route::post('waitlist', [WaitlistController::class, 'joinWaitlist']);
