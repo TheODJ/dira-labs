@@ -19,6 +19,9 @@ Request parameters that should be included in the request to the endpoint includ
 - Run `php artisan key:generate` to generate an application key for the application
 - Import collection into Postman and test APIs
 
+## Collection Link
+- Import the collection and documentation for this project at [here](https://documenter.getpostman.com/view/17990816/UVeCPT92)
+
 ## To Run
 - Open up Postman
 - Make a request to the endpoint
